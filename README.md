@@ -101,3 +101,29 @@ he_thong_quan_ly_van_ban/
 │   └── cong_viec/
 │
 └── requirements.txt
+
+## Vai trò và đóng góp cá nhân
+
+**Dự án:** Hệ thống Quản lý Văn bản và Điều hành  
+**Hình thức:** Đồ án nhóm môn Lập trình Web  
+**Vai trò:** Thành viên phát triển hệ thống, phụ trách module Quản lý văn bản đến và Trang chủ (Dashboard).
+
+### 1. Phát triển module Quản lý văn bản đến
+- Tham gia xây dựng chức năng tiếp nhận và quản lý văn bản đến.
+- Phát triển các chức năng hiển thị danh sách, xem chi tiết, thêm, chỉnh sửa và cập nhật thông tin văn bản.
+- Xây dựng các chức năng hỗ trợ chuyển tiếp, hoàn trả và theo dõi quá trình xử lý văn bản theo nghiệp vụ của hệ thống.
+- Hoàn thiện giao diện và kết nối dữ liệu phục vụ quản lý văn bản đến.
+
+### 2. Phát triển Trang chủ (Dashboard)
+- Thiết kế và xây dựng giao diện trang chủ của hệ thống.
+- Triển khai hiển thị thông tin tổng quan về văn bản và công việc.
+- Xây dựng các thành phần thống kê, trực quan hóa dữ liệu và điều hướng chức năng.
+- Hoàn thiện bố cục và trải nghiệm người dùng.
+
+### 3. Công nghệ và kỹ năng sử dụng
+- **Backend:** Python, Django.
+- **Frontend:** HTML, CSS, JavaScript, Django Templates.
+- **Database:** SQL, Django ORM.
+- **Kỹ năng:** Phát triển ứng dụng web, xử lý nghiệp vụ, tích hợp module và làm việc nhóm.
+
+*Đây là những chức năng có trong mã nguồn thuộc hai module bạn phụ trách. Chỉ giữ những chức năng bạn thực sự trực tiếp triển khai.*
