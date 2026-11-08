@@ -84,8 +84,6 @@ Vai trò: Thành viên phát triển hệ thống, phụ trách Quản lý văn 
 - Làm việc với HTML, CSS, JavaScript và dữ liệu thông qua Django ORM.
 - Phân tích luồng xử lý văn bản, xây dựng chức năng theo nghiệp vụ.
 - Phối hợp và tích hợp các module trong quá trình thực hiện đồ án nhóm.
-Chỉ giữ những nhiệm vụ bạn thực sự trực tiếp thực hiện và có thể giải thích khi phỏng vấn.
-
 7. Hướng dẫn chạy dự án
 Yêu cầu: Python và các thư viện tương thích với phiên bản Django khai báo trong requirements.txt.
 
